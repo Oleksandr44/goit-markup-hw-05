@@ -468,7 +468,6 @@ ul {
 
 .logo-container {
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .end-logo {
@@ -553,6 +552,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.form-container {
+  padding-left: 80px;
+}
+
 .form {
   display: flex;
   gap: 24px;
@@ -573,7 +576,7 @@ ul {
 }
 
 .form-button {
-  mmin-width: 165px;
+  min-width: 165px;
   height: 40px;
   display: flex;
   justify-content: center;
