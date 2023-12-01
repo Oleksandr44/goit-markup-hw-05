@@ -749,5 +749,9 @@ ul {
   background-color: transparent;
   resize: none;
   border-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+..modal-form-name-textarea:focus {
   border-color: #4d5ae5;
 }
