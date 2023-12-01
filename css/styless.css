@@ -723,6 +723,7 @@ ul {
 
 .modal-form-input:focus {
   border-color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .modal-form-input-icon {
@@ -767,4 +768,8 @@ ul {
 }
 
 .modal-checkbox-label {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
 }
