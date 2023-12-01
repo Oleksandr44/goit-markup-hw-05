@@ -815,12 +815,6 @@ ul {
 
 .check:checked + .check-text .check-bord {
   background-color: #404bbf;
-}
-
-.check:checked + .check-text .click {
   border: none;
-}
-
-.check:checked + .check-text .click use {
   fill: #f4f4fd;
 }
